@@ -1,0 +1,85 @@
+body {
+    background-color: #80ccff;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+  }
+  
+  .navbar{
+    background-color: white;
+    height: 65px;
+    width: 100vw; 
+    position: fixed;
+    top: 0; 
+    left: 0;
+   }
+  
+  
+  .navbar a{
+    float: right;
+    margin-right: 25px;
+    margin-top: 10px;  
+    border: 5px solid;
+    border-radius: 9px 9px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #008ae6;
+    width: 5%;
+    }
+  
+  h1 {
+    font-size: 20pt;
+    text-align: left;   
+    }
+  
+  .signup{
+    padding: 30px;
+    margin: auto;
+    margin-top: 200px;
+    width: 13%;
+    background: white;
+    border-radius: 3px;
+    background-color: white;
+    border: solid 1px;
+  }
+  
+  #email{
+    width: 95%;
+    margin-bottom: 20px;
+    height: 25px;
+  }
+  
+  #username{
+    width: 95%;
+    margin-bottom: 20px;
+    height: 25px;
+  }
+  
+  #password{
+    width: 95%;
+    margin-bottom: 20px; 
+    height: 25px;
+  }
+  
+  #password2{
+    width: 95%;
+    margin-bottom: 20px; 
+    height: 25px;
+  }
+  
+   #submit{
+     width: 98%;
+     background-color: #008ae6;
+     color: white;
+     margin-bottom: 20px;
+     height: 27px;
+     border-radius: 4px;
+     border: none;
+   }
+  
+   .fa{
+       border-radius: 50%;
+       width: 30px;
+       padding: 7px;
+   }
